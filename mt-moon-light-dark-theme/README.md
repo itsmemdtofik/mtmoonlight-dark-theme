@@ -7,7 +7,7 @@ I took inspiration from the https://marketplace.visualstudio.com/items?itemName=
 
 #
 
-* [Screenshots](https://github.com/itsmemdtofik/mtmoonlight-dark-theme/blob/main/mt-moonlight-dark-theme/mtmoonlight-theme-profile.PNG)
+* [Screenshots](https://github.com/itsmemdtofik/mtmoonlight-dark-theme/blob/main/mt-moon-light-dark-theme/mtmoonlight-theme-profile.PNG)
 
 
 # <h3 style="color:red"><b>Installation</b></span>
