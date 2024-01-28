@@ -5,7 +5,7 @@ I took inspiration from the https://marketplace.visualstudio.com/items?itemName=
 
 
 
-#
+##
 
 * [Screenshots](https://github.com/itsmemdtofik/mtmoonlight-dark-theme/blob/main/mt-moon-light-dark-theme/mtmoonlight-theme-profile.PNG)
 
