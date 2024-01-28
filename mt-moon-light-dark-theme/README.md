@@ -29,7 +29,7 @@ I took inspiration from the https://marketplace.visualstudio.com/items?itemName=
 
 * [mtdarkweb theme](https://github.com/itsmemdtofik/mtdarkweb-theme)
 * [mtdarkdynamic theme](https://github.com/itsmemdtofik/mtdarkdynamic-theme)
-* [mtdarkmoonlight theme](https://github.com/itsmemdtofik/mtmoonlight-dark-theme)
+* [mtmoonlight dark theme](https://github.com/itsmemdtofik/mtmoonlight-dark-theme)
 
 #
 
@@ -46,7 +46,7 @@ I took inspiration from the https://marketplace.visualstudio.com/items?itemName=
 
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-* [Screenshots](https://github.com/itsmemdtofik/mtmoonlight-dark-theme/blob/main/mt-moonlight-dark-theme/mtmoonlight-theme-profile.PNG)
+* [Screenshots](https://github.com/itsmemdtofik/mtmoonlight-dark-theme/blob/main/mt-moon-light-dark-theme/mtmoonlight-theme-profile.PNG)
 
 #
 
