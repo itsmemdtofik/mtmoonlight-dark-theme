@@ -1,0 +1,39 @@
+{
+  "name": "mtmoonlight-dark-theme",
+  "displayName": "mtmoonlight dark theme",
+  "description": "Dive into the shadows with this sleek and immersive theme for Visual Studio Code, designed to enhance your coding experience with dark elegance.",
+  "version": "0.0.1",
+  "publisher": "mtmonnlightdark",
+  "icon": "mt-dark-web-theme-profile.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsmemdtofik/mtmoonlight-dark-theme"
+  },
+  "keywords": [
+    "theme",
+    "moonlight theme",
+    "mtmoonlight theme",
+    "mtmoon light dark theme",
+    "moonlight dark theme",
+    "moon-light-theme",
+    "moonlight dark theme",
+    "mtmonnlight dark theme",
+    "mtmoonlight dark theme",
+    "mtmoonlightdark theme"
+  ],
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "mtmoonlight dark theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mtmoonlight-dark-theme.json"
+      }
+    ]
+  }
+}
