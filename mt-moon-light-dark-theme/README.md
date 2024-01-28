@@ -1,4 +1,4 @@
-# mtmoonlight theme
+# mtmoonlight dark theme
 Here is the vscode theme that I use in my visual studio code editor. I favor dark themes, hence it's dark.
 
 I took inspiration from the https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme.
@@ -7,7 +7,7 @@ I took inspiration from the https://marketplace.visualstudio.com/items?itemName=
 
 #
 
-* [Screenshots](https://github.com/itsmemdtofik/mtdarkweb-theme/blob/main/mtdarkweb-theme/mtdarkweb/mt-darkweb-theme.PNG)
+* [Screenshots](https://github.com/itsmemdtofik/mtmoonlight-dark-theme/blob/main/mt-moonlight-dark-theme/mtmoonlight-theme-profile.PNG)
 
 
 # <h3 style="color:red"><b>Installation</b></span>
@@ -29,7 +29,7 @@ I took inspiration from the https://marketplace.visualstudio.com/items?itemName=
 
 * [mtdarkweb theme](https://github.com/itsmemdtofik/mtdarkweb-theme)
 * [mtdarkdynamic theme](https://github.com/itsmemdtofik/mtdarkdynamic-theme)
-* [mtdarkmoonlight theme](https://github.com/itsmemdtofik/mtdarkmoonlight-theme)
+* [mtdarkmoonlight theme](https://github.com/itsmemdtofik/mtmoonlight-dark-theme)
 
 #
 
@@ -46,7 +46,7 @@ I took inspiration from the https://marketplace.visualstudio.com/items?itemName=
 
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-* [Screenshots](https://github.com/itsmemdtofik/mtdarkweb-theme/blob/main/mtdarkweb-theme/mtdarkweb/mt-darkweb-theme.PNG)
+* [Screenshots](https://github.com/itsmemdtofik/mtmoonlight-dark-theme/blob/main/mt-moonlight-dark-theme/mtmoonlight-theme-profile.PNG)
 
 #
 
